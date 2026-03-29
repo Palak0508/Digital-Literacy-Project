@@ -1,0 +1,8 @@
+- Do not share OTP or passwords
+- Verify website URLs before entering details
+- Use strong passwords
+- Enable two-factor authentication
+- Avoid clicking unknown links
+- Use trusted websites only
+- Keep software updated
+- Report suspicious activity immediately
