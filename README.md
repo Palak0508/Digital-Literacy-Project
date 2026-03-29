@@ -1,88 +1,66 @@
-# Digital Literacy Project Portfolio
+# Digital Literacy Portfolio
 
-## Student Information
-
-**Name:** Palak 
-**Reg no:** 25BCE10615
-**Subject:** Digital Literacy
-**Teacher's Name:** Prof. Kanan
-
----
-
-# Introduction
-
-Digital literacy is the ability to use digital devices, communication tools, and the internet effectively and responsibly. In today's digital world, it is important for students to understand how technology works and how to use it safely. This project focuses on developing basic digital skills and learning about online safety, cybersecurity, and responsible internet use.
+##  Student Details
+- Name: Shivani Katoch  
+- Course: B.Tech CSE (Data Science)  
+- Year: 1st Year  
+- Course Code: CSE0001  
 
 ---
 
-# Objectives
-
-* To understand digital literacy and its importance
-* To learn how to use digital devices effectively
-* To understand online safety and cybersecurity
-* To develop responsible digital citizenship
-* To improve digital communication skills
+##  Project Overview
+This repository contains my Digital Literacy project completed as part of the CSE0001 course. The project focuses on building essential digital skills including online presence, communication, cybersecurity awareness, and use of modern digital tools.
 
 ---
 
-# What is Digital Literacy?
+##  Tasks Included
 
-Digital literacy refers to the ability to find, evaluate, create, and communicate information using digital technology. It helps individuals use computers, smartphones, and the internet in a safe and productive way.
+### Task 1: Infographic
+- Created a digital literacy awareness infographic using Canva.
+- Covers safe internet practices, email etiquette, and professional presence.
 
----
+### Task 2: Digital Portfolio
+- Created profiles on GitHub, LinkedIn, and Kaggle.
+- Showcases academic and professional information.
 
-# Importance of Digital Literacy
+### Task 3: Platforms
+- Practiced coding on HackerRank.
+- Created a Google Form for digital literacy awareness.
 
-* Helps in online learning
-* Improves communication skills
-* Increases productivity
-* Promotes safe internet use
-* Develops digital citizenship
+### Task 4: Email Etiquette
+- Drafted two professional emails.
+- Created a social media Do’s and Don’ts checklist.
 
----
-
-# Key Topics Covered
-
-## 1. Digital Devices
-
-Digital devices include computers, smartphones, tablets, and laptops. These devices help us access information and communicate easily.
-
-## 2. Internet Usage
-
-The internet allows users to search for information, watch videos, send emails, and connect with people around the world.
-
-## 3. Online Safety
-
-Online safety involves protecting personal information and avoiding harmful websites or online threats.
-
-## 4. Cybersecurity
-
-Cybersecurity helps protect digital devices from viruses, malware, and cyber attacks.
-
-## 5. Digital Communication
-
-Digital communication includes emails, messaging apps, and social media platforms.
+### Task 5: Cybercrime Awareness
+- Case study on phishing.
+- Created a prevention checklist.
 
 ---
 
-# Digital Literacy Skills Learned
-
-* Searching information online
-* Creating strong passwords
-* Identifying fake news
-* Protecting personal data
-* Using digital tools responsibly
-
----
-
-# Conclusion
-
-Digital literacy is an essential skill in today's world. This project helped me understand how to use technology safely and responsibly. By learning digital literacy skills, I can use digital tools effectively for education, communication, and everyday tasks.
+##  Tools Used
+- Canva  
+- GitHub  
+- LinkedIn  
+- Kaggle  
+- HackerRank  
+- Google Forms  
 
 ---
 
-# References
+##  Key Learnings
+- Importance of digital literacy  
+- Professional online communication  
+- Cybersecurity awareness  
+- Building a digital portfolio  
 
-* Internet resources
-* School notes
-* Educational websites
+---
+
+##  Links
+- GitHub Profile:  https://github.com/Palak0508
+- LinkedIn Profile:  https://www.linkedin.com/in/palak-mitruka-1761773bb/
+- Google Form Link:  https://docs.google.com/forms/d/e/1FAIpQLSdYIJcxiQvLaQx-cula4tQtbtLW3wUgZLF0igmXEGnP90Iiig/viewform?usp=dialog
+
+---
+
+## Conclusion
+This project helped me develop essential digital skills that are important for both academic and professional growth.
