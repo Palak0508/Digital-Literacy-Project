@@ -1,8 +1,8 @@
 # Digital Literacy Portfolio
 
 ##  Student Details
-- Name: Shivani Katoch  
-- Course: B.Tech CSE (Data Science)  
+- Name: Palak  
+- Course: B.Tech CSE Core 
 - Year: 1st Year  
 - Course Code: CSE0001  
 
